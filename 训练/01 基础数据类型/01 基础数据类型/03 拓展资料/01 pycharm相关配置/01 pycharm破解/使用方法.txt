@@ -1,0 +1,5 @@
+打开pycharm
+
+直接把当前的文件夹下的 .zip 压缩文件拖入pycharm软件界面
+
+在菜单栏选择 Help<帮助> --  Eval Reset -- 勾选Auto reset before per restart

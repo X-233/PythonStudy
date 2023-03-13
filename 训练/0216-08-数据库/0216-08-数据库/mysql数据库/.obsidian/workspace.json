@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "873367f02acf9254",
+    "type": "split",
+    "children": [
+      {
+        "id": "f80a2a15f25a5c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1859357ce967b0f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02CURD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5df78833a0624e19",
+    "type": "split",
+    "children": [
+      {
+        "id": "33774cad1500aad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d96c072e09aa217",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cb24a2427741fd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c0d48084e8bce45",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "39d196b2908c5f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "a26da4911f85c794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b152bbb75d4b423",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02CURD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66be31f985476f7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02CURD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30a71dea146f7ce6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2785c9c5e2abfa62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02CURD.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1859357ce967b0f1",
+  "lastOpenFiles": [
+    "05数据查询.md",
+    "02CURD.md",
+    "01数据库操作.md",
+    "00数据库安装.md",
+    "其他资料/资料-ubuntu20.04 安装 mysql.md",
+    "其他资料/教辅-常用单词参考表.md",
+    "09-Python 操作 mysql.md",
+    "08-01数据库操作.md",
+    "08-00数据库安装.md",
+    "10-02数据查询.md",
+    "从源码安装mysql.md",
+    "其他资料/navicat使用教程.md",
+    "其他资料/pycharm链接远程数据库.md",
+    "其他资料/资料-mysql安装之后进不去[ubuntu16].md",
+    "10-01数据约束.md"
+  ]
+}

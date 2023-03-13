@@ -1,0 +1,5 @@
+file->editor->sql-->comment  e13e3e
+
+
+Navicat安装与连接: https://zhengxinonly.com/environment/navicat.html
+pycharm链接mysql: https://zhengxinonly.com/environment/pycharm/connect-mysql.html

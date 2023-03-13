@@ -1,0 +1,5 @@
+root - DEBUG - 这里是调试信息
+root - INFO - 这里是详情信息
+root - WARNING - 这里是警告信息
+root - ERROR - 这里是错误信息
+root - CRITICAL - 这里是危机信息
