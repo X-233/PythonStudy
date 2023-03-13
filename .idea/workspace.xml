@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be5b6a99-34bd-420f-a904-42f4140be1c0" name="变更" comment="修改文件">
-      <change beforePath="$PROJECT_DIR$/学习/配置文件/数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习/配置文件/数据库.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/训练/12月13日/占位符.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/训练/12月17日/列表转换.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/训练/12月31日/01函数.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000/01 处理数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000/01 处理数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000/02 新建数据库.sql" beforeDir="false" afterPath="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000/02 新建数据库.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/IDEA/Project/学习/学习/逆向",
     "node.js.detected.package.eslint": "true",
@@ -63,6 +65,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -71,7 +78,7 @@
       <recent name="D:\IDEA\Project\学习\学习\自动化" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.toch">
+  <component name="RunManager" selected="Python.01 处理数据">
     <configuration name="有道翻译" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +93,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/逆向/有道翻译.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01 处理数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000/01 处理数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01 处理数据" />
         <item itemvalue="Python.toch" />
         <item itemvalue="Python.有道翻译" />
         <item itemvalue="Python.Auto_daka_unheaders_2" />
@@ -166,7 +196,7 @@
       <workItem from="1678026457138" duration="6602000" />
       <workItem from="1678512180852" duration="3331000" />
       <workItem from="1678599072441" duration="612000" />
-      <workItem from="1678679376241" duration="2692000" />
+      <workItem from="1678679376241" duration="7226000" />
     </task>
     <task id="LOCAL-00002" summary="修改文件">
       <created>1678679719068</created>
@@ -175,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678679719068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改文件">
+      <created>1678707851745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678707851745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改文件">
+      <created>1678708097830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678708097830</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +284,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改文件" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$01_.coverage" NAME="01 处理数据 覆盖结果" MODIFIED="1678711926479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="有道翻译 覆盖结果" MODIFIED="1678035757367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/逆向" />
     <SUITE FILE_PATH="coverage/$Auto_daka_unheaders_2.coverage" NAME="Auto_daka_unheaders_2 覆盖结果" MODIFIED="1678029828792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/自动化" />
     <SUITE FILE_PATH="coverage/$toch.coverage" NAME="toch 覆盖结果" MODIFIED="1678518853431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/AI" />
