@@ -27,7 +27,7 @@ cursor = conn.cursor()
 with open(r'D:\培训班\0216-08-数据库\0216-08-数据库\0216-08-01000000\changsha.csv', 'r', encoding='gbk')as f:
     list_1 = [tuple(i.split(',')) for i in f.readlines()]
 
-
+list_2 = list_1[0]
 
 
 f = open(r'changsha.sql', 'w', encoding='utf-8')
@@ -38,8 +38,10 @@ for i in list_1:
         cursor.execute(insert, i)
         n += 1
         if n % 100 == 0:
-            cursor.commit()
+            conn.commit()
+            print("Success!")
     except Exception as e:
+        conn.rollback()
         print(e)
 cursor.close()
 f.close()
