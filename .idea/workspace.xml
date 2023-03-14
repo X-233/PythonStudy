@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be5b6a99-34bd-420f-a904-42f4140be1c0" name="变更" comment="修改文件">
-      <change afterPath="$PROJECT_DIR$/学习/配置文件/数据库封装方法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/学习/配置文件/数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习/配置文件/数据库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习/文件操作/01读写追加.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习/文件操作/01读写追加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习/配置文件/数据库封装方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习/配置文件/数据库封装方法.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +217,7 @@
       <workItem from="1678026457138" duration="6602000" />
       <workItem from="1678512180852" duration="3331000" />
       <workItem from="1678599072441" duration="612000" />
-      <workItem from="1678679376241" duration="11101000" />
+      <workItem from="1678679376241" duration="14993000" />
     </task>
     <task id="LOCAL-00002" summary="修改文件">
       <created>1678679719068</created>
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678713716254</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改文件">
+      <created>1678716550817</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678716550817</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +338,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$01_.coverage" NAME="01 处理数据 覆盖结果" MODIFIED="1678713184586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/训练/0216-08-数据库/0216-08-数据库/0216-08-01000000" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="数据库封装方法 覆盖结果" MODIFIED="1678716299438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/配置文件" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="数据库封装方法 覆盖结果" MODIFIED="1678761533570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/配置文件" />
     <SUITE FILE_PATH="coverage/$Auto_daka_unheaders_2.coverage" NAME="Auto_daka_unheaders_2 覆盖结果" MODIFIED="1678029828792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/自动化" />
     <SUITE FILE_PATH="coverage/$toch.coverage" NAME="toch 覆盖结果" MODIFIED="1678518853431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/AI" />
   </component>

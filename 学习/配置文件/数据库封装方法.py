@@ -5,14 +5,25 @@ class Star:
         self.conn = link_sql(1)
         self.cursor = self.conn.cursor()
 
-    def find_star(self, star_star):
-        sql = "select * from bads where star=%s"
+    def find_big_star(self, star_star):
+        sql = "select * from bads where star>%s;"
         self.cursor.execute(sql, (star_star,))
         return self.cursor.fetchall()
 
+    def find_links(self, links):
+        sql = "select shop_tag_cate_click from bads where review_num=%s;"
+        self.cursor.execute(sql, (links,))
+
+    def __enter__(self):
+        print('进入上下文管理器...')
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.conn.close()
+        print('退出上下文管理器!')
 
 if __name__ == '__main__':
-    db = Star()
-    # print(db.finsert_star('烤串'))
-    for i in db.find_star(4.74):
+    with Star() as star:
+        list_1 = star.find_big_star(4.5)
+    for i in list_1:
         print(i)
